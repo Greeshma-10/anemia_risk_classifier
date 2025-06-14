@@ -17,11 +17,6 @@ Early detection of anemia is critical, especially among women and children. This
 - Interactive sidebar input
 
 
-## 🚀 Demo
-
-> 🔗 Live App: *(add your Streamlit Cloud URL here)*  
-> 📹 Video Demo: *(optional)*
-
 
 ## 📊 Model Details
 
@@ -35,11 +30,7 @@ Early detection of anemia is critical, especially among women and children. This
 
 ## 📁 Project Structure
 
-anemia-risk-classifier/
-├── anemia_classifier.ipynb # Full notebook (EDA + model training)
-├── anemia_risk_classifier.pkl # Trained model
-├── app.py # Streamlit web app
-└── README.md # This file
+<pre> ## 📁 Project Structure ``` anemia-risk-classifier/ ├── anemia_classifier.ipynb # Full notebook (EDA + model training) ├── anemia_risk_classifier.pkl # Trained model ├── app.py # Streamlit web app └── README.md # This file ``` </pre>
 
 
 
